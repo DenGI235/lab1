@@ -1,0 +1,34 @@
+<table border="1" style="border-collapse: collapse; width: 100%; height: 101px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 14.5101%; height: 28px;" rowspan="2"></td>
+<td style="width: 35.49%; height: 18px;" colspan="2"></td>
+<td style="width: 33.3334%; height: 18px;" colspan="2"></td>
+<td style="width: 16.6667%; height: 18px;"></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 68.8234%; height: 10px;" colspan="4"></td>
+<td style="width: 16.6667%; height: 10px;"></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 14.5101%; height: 18px;"></td>
+<td style="width: 18.8233%; height: 18px;"></td>
+<td style="width: 16.6667%; height: 36px;" rowspan="2"></td>
+<td style="width: 16.6667%; height: 18px;"></td>
+<td style="width: 16.6667%; height: 18px;"></td>
+<td style="width: 16.6667%; height: 18px;"></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 14.5101%; height: 37px;" rowspan="2"></td>
+<td style="width: 18.8233%; height: 18px;"></td>
+<td style="width: 16.6667%; height: 18px;"></td>
+<td style="height: 55px;" rowspan="3" colspan="2"></td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 18.8233%; height: 37px;" rowspan="2" colspan="3"></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 14.5101%; height: 18px;"></td>
+</tr>
+</tbody>
+</table>
